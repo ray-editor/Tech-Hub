@@ -8,7 +8,7 @@ function cancel(){
 }
 // Typewriter Effect
 const texts = [
-    "DEVELOPER",
+    "EDITOR",
     "DESIGNER",
     "YOUTUBER"
 ]
