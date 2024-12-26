@@ -1,5 +1,12 @@
 *{
- 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
 }
 :root{
     --bg-color: #080808;
@@ -1253,5 +1260,3 @@ Testimonial click can work properly like other click srvice ya contact*/
         margin: 1rem 0;
     }
 }
-
-
